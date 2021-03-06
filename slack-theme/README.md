@@ -1,0 +1,1 @@
+Preferences -> Themes -> Colours
