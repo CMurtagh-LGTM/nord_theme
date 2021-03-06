@@ -1,1 +1,3 @@
+# Slack
+
 Preferences -> Themes -> Colours
